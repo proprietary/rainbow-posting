@@ -18,6 +18,10 @@ Creates rainbow colored text (currently only for TeX (specifically mathJAX with 
     $ lein run "My text here"
 ```
 
+## Purpose?
+
+Spamming/trolling input fields on websites that allow LaTeX or mathJAX.
+
 ## License
 
 GNU GPL v3
