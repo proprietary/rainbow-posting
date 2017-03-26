@@ -8,7 +8,7 @@ Creates rainbow colored text (currently only for TeX (specifically mathJAX with 
 
 ## …to an entire word wrapped paragraph
 
-![whole spectrum stretched out](doc/large.png)
+![whole spectrum stretched out](doc/long.png)
 
 ## Usage
 
